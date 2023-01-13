@@ -1,0 +1,30 @@
+## Patch Variables:
+
+* __00_currentScroll_value__ ```Number```
+* __01_arraypoints__ ```Number```
+* __animation_blur_bool__ ```Number```
+* __array_visible__ ```Number```
+* __aspect__ ```Number```
+* __blur__ ```Number```
+* __delta_z__ ```Number```
+* __Layer_0_typo__ ```Texture```
+* __Layer_1_graphics__ ```Texture```
+* __position_z_smooth__ ```Number```
+* __raster_steps_x__ ```Number```
+* __raster_steps_y__ ```Number```
+* __Snapped_bool__ ```Number```
+* __stop_animation__ ```Number```
+* __stop_animation__ ```Number```
+* __stop_animation__ ```Number```
+* __stop_animation__ ```Number```
+* __texture_mask_animation_black__ ```Texture```
+* __texture_mask_array__ ```Texture```
+* __timer__ ```Number```
+* __transparency__ ```Number```
+* __webcam_01__ ```Texture```
+* __webcam_01__ ```Texture```
+* __webcam_01__ ```Texture```
+* __webcam_01__ ```Texture```
+* __webcam_01__ ```Texture```
+* __webcam_texture__ ```Texture```
+
