@@ -19,6 +19,7 @@
 * __stop_animation__ ```Number```
 * __texture_mask_animation_black__ ```Texture```
 * __texture_mask_array__ ```Texture```
+* __textureDepth_Webcam__ ```Texture```
 * __timer__ ```Number```
 * __transparency__ ```Number```
 * __webcam_01__ ```Texture```
